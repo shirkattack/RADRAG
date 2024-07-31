@@ -26,7 +26,7 @@ Every month, this repo commits to:
 
 Provide RAG and Agent-based through notebooks or scripts complete with explanations, use cases, and examples to facilitate understanding and experimentation.
 
-More scripts and notebooks will be available soon!
+More scripts and notebooks will be available soon!!
 
 ## Get Involved
 
